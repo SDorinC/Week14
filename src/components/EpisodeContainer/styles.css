@@ -1,0 +1,7 @@
+.episode-container:last-child {
+    margin-bottom: 0;
+}
+
+.episode-container {
+    margin-bottom: 20px;
+}
